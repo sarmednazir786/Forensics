@@ -1,2 +1,2 @@
 # Forensics
-Answer is in the details.
+Answer is in the Stegnographic details.
